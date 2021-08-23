@@ -1,0 +1,4 @@
+{
+  "watch": "schema.graphql",
+  "ext": "graphql"
+}
